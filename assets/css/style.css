@@ -1,0 +1,167 @@
+body{
+   max-width: 1200vw;
+  margin: 0;
+  overflow-x: hidden;
+}
+
+nav{
+    border: 1px solid black;
+    height: 100px;
+    background-color: #ffc017;
+    display: flex;
+    justify-content: space-around;
+    align-items;
+}
+#logoM{
+   display: flex;
+   align-items: center;
+}
+#testolista{
+    display: flex;
+    align-items: center;
+    padding: 0;
+}
+
+#testolista ul{
+    display: flex;
+    gap: 58px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+}
+#btn{
+    padding: 28px;
+}
+#b01{
+    border-radius: 23px;
+    height: 38px;
+    width: 102px;
+    background-color: black;
+    color: white;
+}
+
+.list{
+    display: flex;
+}
+
+#svg{
+    border: 1px solid black;
+    height: 508px;
+     background-color: #ffc017;
+     display: flex;
+     align-items: center;
+}
+.testotitle{
+   margin-left: 10em;
+    display: flex;
+    flex-direction: column;
+}
+  
+
+#title{
+    
+    font-size: 88px;
+    
+}
+#b02{
+       
+    border-radius: 25px;
+    width: 149px;
+    height: 37px;
+    color: white;
+    background-color: black;
+    margin-top: 69px;
+    
+        
+}
+#subtitle{
+    font-size: 18px;
+        margin-top: 35px;
+    width: 300px;
+   
+}
+svg{
+   margin-left: 697px;
+}
+#logoT{
+        display: flex;
+    align-content: center;
+    margin-left: 112px;
+    margin-top: 54px;
+}
+#trand{
+    margin-top: 8px;
+    margin-left: 13px;
+}
+.numeri1{
+    font-size: 37px;
+  
+    display: flex;
+    justify-content: space-around;
+    margin-top: 37px;
+   
+    
+}
+.numeri2{
+  
+    font-size: 37px;
+   
+   
+   
+}
+    
+    
+#n01{ opacity: 10%;}
+#n02{ opacity: 10%;}
+#n03{ opacity: 10%;}
+#n05{ opacity: 10%;}
+#n04{ opacity: 10%;}
+#n06{ opacity: 10%;}
+ 
+#icon01{transform: translate(-199px, 0px);
+    border-radius: 20px;
+    
+
+}
+#icon02{ transform: translate(-201px, 0px);
+border-radius: 20px;}
+
+#icon03{    transform: translate(-200px, 0px);
+border-radius: 10px;
+
+}
+#icon04{    transform: translate(-14px, -1px);
+border-radius: 10px;
+}
+#icon05{    transform: translate(-25px, -1px);;
+
+        border-radius: 10px;
+}
+#icon06{        transform: translate(118px, -1px);
+border-radius: 10px;
+}
+#nomi1{
+    font-size: 20px;
+       transform: translate(-149px, -36px);
+}
+#nomi2{
+    font-size: 20px;
+   transform: translate(-144px, -36px);
+}
+#nomi3{
+    font-size: 20px;
+    transform: translate(-145px, -36px);
+}
+#nomi4{
+     font-size: 20px;
+     
+}
+   
+
+#nomi5{
+   
+}
+#nomi6{
+    
+}
